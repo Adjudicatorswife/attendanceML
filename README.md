@@ -1,5 +1,3 @@
-# attendanceML
-attendance machine learning
 # Face Recognition Attendance Tracking System
 
 This Python-based system allows you to collect student face data, train a machine learning model, and perform real-time attendance tracking using a live camera feed.
